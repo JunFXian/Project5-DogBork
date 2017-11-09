@@ -20,6 +20,6 @@ This is an app for dog owners.
 Features:
 
 The main features of Dog Bork are:
-1.Search the nearby outdoor activity locations or pet stores for your dogs;
-2.Favorite your locations;
-3.Manage your dog’s profile;
+* Search the nearby outdoor activity locations or pet stores for your dogs;
+* Favorite your locations;
+* Manage your dog’s profile;
