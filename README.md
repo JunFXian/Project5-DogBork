@@ -23,3 +23,8 @@ The main features of Dog Bork are:
 * Search the nearby outdoor activity locations or pet stores for your dogs;
 * Favorite your locations;
 * Manage your dog’s profile;
+
+Future implementation:
+
+* Apply MVVM architeture in the app
+* Use Dependency Injector
