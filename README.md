@@ -28,3 +28,4 @@ Future implementation:
 
 * Apply MVVM architeture in the app
 * Use Dependency Injector
+* Polish UI to make it more material
