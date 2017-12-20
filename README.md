@@ -29,3 +29,5 @@ Future implementation:
 * Apply MVVM architeture in the app
 * Use Dependency Injector
 * Polish UI to make it more material
+* Reconsider the use of Firebase
+* Use Node.js to improve the backend
