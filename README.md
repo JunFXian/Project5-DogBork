@@ -1,5 +1,5 @@
-# udacity_android_project5
-Udacity Android Nanodegree project 5
+# android_project5
+Android project 5
 
 
 Project Info
